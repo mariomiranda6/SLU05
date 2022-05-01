@@ -1,0 +1,35 @@
+[33mcommit a31ac9432e4970faf6b8ac201f526e48c3eb7e48[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: mario miranda <mario.serpa.miranda@gmail.com>
+Date:   Sun May 1 12:21:29 2022 +0100
+
+    Wine list
+
+[33mcommit c058110f7941b5514690c1774f64ddfb59a479fd[m
+Author: mario miranda <mario.serpa.miranda@gmail.com>
+Date:   Sun May 1 12:19:16 2022 +0100
+
+    Toillet Paper
+
+[33mcommit 8e8688a8366edceaf85d690ac7e0d1f8c3c5a915[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mariomiranda6 <100100908+mariomiranda6@users.noreply.github.com>
+Date:   Sun May 1 12:13:48 2022 +0100
+
+    Update groceries.txt
+
+[33mcommit f25e561d59c05e1a470a80dfb404d1ded3befbeb[m
+Author: mario miranda <mario.serpa.miranda@gmail.com>
+Date:   Sun May 1 12:11:57 2022 +0100
+
+    Name changed
+
+[33mcommit abfd757921361ac364f17e4d4c6f6141a8c8ef61[m
+Author: mario miranda <mario.serpa.miranda@gmail.com>
+Date:   Sun May 1 12:09:07 2022 +0100
+
+    First commit, as explained in exercises!
+
+[33mcommit 60ed60ecb7c49e4d644df0c25b7f67fc2ed36760[m
+Author: mariomiranda6 <100100908+mariomiranda6@users.noreply.github.com>
+Date:   Sun May 1 11:58:29 2022 +0100
+
+    Initial commit
